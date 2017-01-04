@@ -1,0 +1,10 @@
+Package: com.ianb821.whoareyou
+Name: WhoAreYou
+Pre-Depends: firmware (>= 10.0)
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Put the name of the message sender in QR banner (Request by /u/KingJordo)
+Maintainer: Ian Burns
+Author: Ian Burns
+Section: Tweaks
